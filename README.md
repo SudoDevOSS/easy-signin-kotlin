@@ -50,7 +50,7 @@ BaseNetworking.configureClient("URL", "AUTHENTICATION_TOKEN")
 ```
 MIT License
 
-Copyright (c) 2021 sudo-dev-oss
+Copyright (c) 2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
